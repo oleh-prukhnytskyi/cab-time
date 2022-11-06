@@ -6,7 +6,6 @@ A simple web-application that supports authentication, registration and other CR
 ```
 
 ## :clipboard:Features:
-___
 + registration like a driver;
 + authentication like a driver;
 + create/update/remove a manufacturer;
